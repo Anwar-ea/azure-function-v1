@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "axiom_func": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7259",
+      "launchBrowser": false
+    }
+  }
+}
