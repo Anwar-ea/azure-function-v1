@@ -38,7 +38,7 @@ namespace axiom_func
                 }
             }
 
-            return new OkObjectResult("Welcome to Azure Functions 123!");
+            return new OkObjectResult("Welcome to Azure Functions 1234!");
         }
     }
 
